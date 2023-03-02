@@ -1,0 +1,34 @@
+#about{
+    background-color: #2079e1;
+}
+#about .about {
+    flex-direction: column-reverse;
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0px 20px;
+}
+
+
+#about .col-right {
+    width: 100%;
+    color: aliceblue;
+}
+
+#about .col-right h2 {
+    font-size: 3.2rem;
+    font-weight: 500;
+    letter-spacing: 0.2rem;
+    margin-bottom: 10px;
+}
+
+#about .col-right p {
+    margin-bottom: 20px;
+}
+
+#about .col-right .cta {
+    color: white;
+    margin-bottom: 50px;
+    padding: 10px 20px;
+    font-size: 2rem;
+}
